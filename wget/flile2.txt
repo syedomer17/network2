@@ -1,0 +1,2 @@
+The wget command  is a free utility for non-interactive downloading of files from the web.
+ It supports HTTP, HTTPS, and FTP protocols and is widely used for downloading files and web pages.
