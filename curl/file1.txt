@@ -1,2 +1,17 @@
+You can customize the Curl command further by incorporating these options:
+
+X <HTTP_METHOD> — specifies which HTTP method to use.
+-H “HeaderName: HeaderValue” — sets custom HTTP headers for the request.
+-d “data” — sends data in the request body.
+-o <output_file> — saves the response to a file.
+-O — saves a remote file.
+-i — includes HTTP response headers in the output.
+-L — follows HTTP redirects.
+-k — allows connections to SSL sites without certificates.
+-v — provides verbose output for debugging.
+
+
+
+
 The curl command is a tool used for transferring data to or from a server using various protocols, including HTTP, HTTPS, FTP, and more.
  It’s widely used for testing APIs, downloading files, and performing network requests.
